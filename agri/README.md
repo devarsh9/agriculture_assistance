@@ -1,4 +1,4 @@
-# agriculture_assistance
+# agri
 
 A new Flutter application.
 
