@@ -25,7 +25,9 @@ Agro Assistance is Mobile App developed using Flutter aimed at helping farmers t
     <td><img src="https://user-images.githubusercontent.com/83124657/116806227-3845e880-ab49-11eb-8331-1398d68b0743.png" width=200></td>
     <td><img src="https://user-images.githubusercontent.com/83124657/116806185-ffa60f00-ab48-11eb-9036-65d678161d42.jpeg" width=200></td>
   </tr>
-  <tr>
+ </table>
+ <table border=2>
+   <tr>
     <td>Snapshot of realtime database</td>
     <td>Flowchart of the application</td>
   </tr>
