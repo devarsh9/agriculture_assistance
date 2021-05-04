@@ -2,6 +2,8 @@
 
 Agro Assistance is Mobile App developed using Flutter aimed at helping farmers to see the constant temperature, humidity and soil moisture of his field using IoT sensors (DHT11 and Soil Moisture sensor) and provides features for automated irrigation. It has features for weather prediction based on the prophet time series model.
 
+<a href="https://github.com/devarsh9/weather-forecast">Machine Learning Code</a>
+
 ## Features of APP
  1. User can view ther current temperature and humidity 
  2. Wishlist his favourite crops and setting his desrired soil moisture for those crops.
